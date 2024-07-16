@@ -1,0 +1,54 @@
+KAISER PERMANENTE
+ROI PATIENT
+Walker, Jeltz
+DEMOGRAPHIC
+MRN: 000005578725, DOB: 5/30/1977, Sex: F
+Patient Demographics
+Patient Name
+Sex
+DOB
+Walker, Jeltz (000005578725)
+Female
+5/30/1977
+Date Of Birth
+Gender Identity
+Race
+Ethnicity
+Preferred Spoken
+Preferred Written
+05/30/1977
+Female
+Black/African
+American/United
+Language
+Language
+American
+States
+English
+English
+Patient Demographics
+Address
+Phone
+13732 Hill Grove St
+310-493-1783 (Home)
+EASTVALE CA 92880
+000-000-0000 (Work)
+310-493-1783 (Mobile)
+Emergency Contacts
+Contact Person (Rel.)
+Home Phone
+Work Phone
+Mobile Phone
+Jackiey Walker (Mother)
+--
+--
+909-678-9965
+Social History
+Tobacco History
+Smoking Status
+Never Assessed
+Smokeless Tobacco Use
+Unknown
+Kaiser Permanente
+Page 1
+000001

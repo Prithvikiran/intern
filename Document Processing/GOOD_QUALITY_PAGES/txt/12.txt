@@ -1,0 +1,124 @@
+Patient Name:MARIA VICTORIA
+MRN: 10-083-391
+DOB:27-Jun-1954
+Date of Visit:26-Mar-2019
+Owner:Buchanan,Sonya
+Document Type:sER Reports
+Site Name:7160 Lake Forest
+03/26/19 18:16:05 MemorialCare Health
+949 581 6457 MemorialCare Health Page 002
+MemorialCare Saddleback
+Patient: Victoria, Maria S
+Medical Center
+MRN: 001035824 DOB: 6/27/1954, Sex: F
+MemorialCare.
+24451 Health Center
+Acct #: 21501522
+Laguna Hills CA 92653-3689
+PERTINENT REPORT
+Patient Info
+Patient Name
+Account Number
+Gender
+DOB (Age)
+Victoria, Maria S (001035824)
+21501522
+Female
+6/27/1954 (64 year old)
+Unit
+Room
+Bed
+Code Status
+ED
+EDOH
+H
+Not on file
+Patient Demographics
+Address
+Phone
+8 HILLGATE PLACE
+949-422-7038 (Home)
+ALISO VIEJO CA 92656
+949-422-7038 (Mobile)
+Emergency Contact(s)
+Name
+Relation
+Home
+Work
+Mobile
+Victoria, Elizabeth
+Daughter
+949-616-2225
+949-616-2225
+Victoria, Emiliano
+Spouse
+949-309-1727
+949-309-1727
+Epic Admission Information
+Arrival Date/Time: 03/25/2019 1315 Admit Date/Time:
+03/25/2019 1315
+IP Adm.
+Date/Time:
+Admission Type:
+Emergency
+Point of Origin:
+Emergency Room
+Admit Category:
+Means of Arrival: Bis Ambulance
+Primary Service:
+Emergency
+Secondary
+Service:
+Transfer Source:
+Service Area:
+MEMORIALCAR Unit:
+Saddleback E.D.
+E SERVICE
+AREA
+Admit Provider:
+Attending
+Hsieh, George D.
+Referring
+Provider:
+MD
+Provider:
+Reason for Admission
+Codes
+Comments
+Closed head injury, initial encounter - Primary
+S09.90XA
+Contusion of left knee, initial encounter
+S80.02XA
+Strain of neck muscle, Initial encounter
+S16.1XXA
+Discharge Information - Hospital Account/Patient Record
+Discharge Date/Time
+Discharge Disposition Discharge Destination Discharge Provider
+Unit
+03/25/2019 1558
+Home
+Home
+None
+Saddleback E.D.
+Reviewed On: 3/25/2019 By: Bedrosian,
+Allergies as of 3/25/2019
+Jennifer M., RN
+No Known Allergies
+Problem List
+Active Problems:
+REPORT
+REVIEWED
+No active hospital problems documented on the problem list
+DATE
+REVIEWED:
+3/28/19
+REVIEWED NORMAL/ABNORMAL BY: Bn Remived
+Medical History
+No past medical history on file.
+PLAN:
+Surgical History
+No past surgical history on file.
+Victoria, Maria S (MRN#001035824) Printed at 3/26/19 1815
+Page 2
+page 82 of L12
+Con000104

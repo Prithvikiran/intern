@@ -1,0 +1,67 @@
+IT IS CLAIMED THAT :
+1. The injured worker born*
+01/08/1965
+(Date of birth : MM/DD/YYYY)
+while employed as a(n)
+CASE MANAGER
+(Occupation at the time of injury)
+suffered a: ( Choose only one)
+specific injury on
+(DATE OF INJURY: MM/DD/YYYY)
+cumulative trauma injury which began on
+01/22/2018
+and ended on
+03/09/2018
+(START DATE: MM/DD/YYYY)
+(END DATE: MM/DD/YYYY)
+The injury occured at*
+2471 N BEACHWOOD DR
+(Street Address/PO Box - Please leave blank spaces between numbers, names or words)
+LOS ANGELES
+CA
+90068
+(City)
+(State)
+(Zip Code)
+(State which parts of the body were injured)
+Body Part 1 :
+200 NECK
+Body Part 2 :
+450 SHOULDERS SCAPULA AND
+Body Part 3 :
+420 BACK - INCLUDING BACK
+Body Part 4 :
+500 LOWER EXTREMITIES - NOT S
+Other Body Parts
+841 NERVOUS SYSTEM - STRESS
+2. The injury occurred as follows:
+( Explain What The Worker Was Doing At The Time Of Injury And How The Injury Occured
+Field size limited to 325 characters
+STRESS AND STRAIN DUE TO REPETITIVE MOVEMENT, UNCOMFORTABLE CHAIR,
+INAPPROPRIATE LIGHTING, INJURED SHOULDERS, NECK, LOWER BACK AND LOWER
+EXTREMITIES; STRESS/DEPRESSION/ANXIETY DUE TO HOSTILE WORK ENVIRONMENT
+AND DISCRIMINATION BASED ON SEX ORIENTATION
+3. Actual earnings at the time of injury
+Rate of Pay $
+Monthly
+Weekly
+Hourly
+Monthly
+State value of tips, meals, lodging or other advantages regularly
+received $
+Weekly
+Hourly
+Number of hours worked per week.
+4. The injury caused disability as follows
+Last day off work due to injury :
+(MM/DD/YYYY)
+First Period of Disability:
+Start date
+End date
+(MM/DD/YYYY)
+(MM/DD/YYYY)
+Second Period of Disability:
+Start date
+End date
+(MM/DD/YYYY)
+(MM/DD/YYYY)

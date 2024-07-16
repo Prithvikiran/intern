@@ -1,0 +1,100 @@
+Fax Server
+10/9/2018 9:51:45 AM PAGE
+3/011
+Fax Server
+State of California, Division of Workers' Compensation
+REQUEST FOR AUTHORIZATION
+DWC Form RFA
+Attach the Doctor's First Report of Occupational Injury or Illness, Form DLSR 5021, a Treating Physician's Progress
+Report, DWC Form PR-2, or equivalent narrative report substantiating the requested treatment.
+New Request
+Resubmission - Change in Material Facts
+Expedited Review: Check box if employee faces an imminent and serious threat to his or her health
+Check box if request is a written confirmation of a prior oral request.
+Employee Information
+Name (Last, First, Middle): Contreras, Blanca [000022542954] Home: 714-797-8947 Cell: 909-997-8947
+Date of Injury (MM/DD/YYYY): 10/04/2018
+Date of Birth (MM/DD/YYYY): 05/09/1957
+Claim Number: PENDING
+Employer: UC RIVERSIDE
+Requesting Physician Information
+Name: JAYVEEH DE VENECIA NAVARRO MD
+Practice Name: Kaiser Permanente On-the-Job Moreno
+Contact Name: Roxana Heredia
+Valley
+Address 12815 HEACOCK ST
+City: MORENO VALLEY
+State: CA
+Zip Code: 92553-3116
+Phone: 844-789-0172
+Fax Number: 855-902-6796
+Specialty: Occupational Medicine
+NPI Number: 1881915924
+E-mail Address:
+Claims Administrator Information
+Company Name SEDGWICK CLAIM MGMNT SVCS INC
+Contact Name: Pending
+Address PO BOX 14433
+City: LEXINGTON
+State: KY
+Zip Code: 40512-4187
+Phone: 916-788-9901
+Fax Number: 916-771-2990
+E-mail Address:
+Requested Treatment (see instructions for guidance; attach additional pages if necessary)
+List each specific requested medical services, goods, or items in the below space or indicate the specific page number(s)
+of the attached medical report on which the requested treatment can be found. Up to five (5) procedures may be entered;
+list additional requests on a separate sheet if the space below is insufficient.
+Other Information:
+Service/Good Requested
+CPT/HCPCS
+Diagnosis (Required)
+ICD-Code (Required)
+(Required)
+Code (If known)
+(Frequency, Duration
+Quantity, etc.)
+1. Left Wrist Contusion, Init
+1. S60.212A
+Physical Therapy (INIT)
+2X3=6
+2. Neck Muscle Strain, Init
+2. S16.1XXA
+MEDRISK
+3. Rib Contusion, Init
+3. S20.219A
+4. Left Knee Contusion, Init
+4. S80.02XA
+Requesting Physician Signature: (Electronically signed by:) JAYVEEH DE VENECIA
+NAVARRO MD
+Date: October 09, 2018
+Claims Administrator/Utilization Review Organization (URO) Response
+Approved
+Denied or Modified (See separate decision letter)
+Delay (See separate notification of delay)
+Requested treatment has been previously denied
+Liability for treatment is disputed (See separate letter)
+Authorization Number (if assigned):
+Date:
+Authorized Agent Name:
+Signature:
+Phone:
+Fax Number:
+E-mail Address:
+Comments:
+Employee Address:
+Blanca C Contreras
+Home Phone:
+714-797-8947
+16977 Green Ash St
+Cell Phone:
+909-997-8947
+Fontana CA 92337-6886
+Work Phone:
+DWC Form RFA (Effective 2/2014)
+MRN 000022542954
+CM # 212R142282
+RFL # 21212577777
+10-9-2018
+2019218981
+5220181009015122
